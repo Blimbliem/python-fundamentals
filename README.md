@@ -30,3 +30,17 @@ São utilizadas para representar valores alfanúmericos. São definidas dentro d
 
 ### Dicas VScode
 Ao implementar uma classe por exemplo "int()", se segurarmos a tecla CRTL em cima da classe o VScode abre uma aba de ajuda.
+
+## Aula 02
+### Modo interativo
+O interpretador Python pode executar em modo que possibilite o desenvolvedor a escrever o código e ver o resultado na hora.
+
+### Iniciando modo interativo:
+1 - Chamar o interpretador (python)
+2 - Executando o script com a flag -i (python -i app.py)
+
+### dir
+O metodo "dir", utilizado no terminal, sem argumentos, retorna a lista de nomes do escopo local. Com argumentos, retorna uma lista de atributos validos para o objeto. Ex: dir(), dir(20);
+
+### help
+Invoca o sistema de ajuda integrado da linguagem. Ele nos diz quais são os argumentos que tal atributo recebe, o que ele retorna, como ele funciona de fato. Ex:help() help (20)
