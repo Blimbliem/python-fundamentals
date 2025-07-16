@@ -44,3 +44,18 @@ O metodo "dir", utilizado no terminal, sem argumentos, retorna a lista de nomes 
 
 ### help
 Invoca o sistema de ajuda integrado da linguagem. Ele nos diz quais são os argumentos que tal atributo recebe, o que ele retorna, como ele funciona de fato. Ex:help() help (20)
+
+### Variáveis
+São valores que podem sofrer alterações no decorrer da execução do programa.
+Não é necessário definir o tipo de dados da variável, pois o python faz isso automáticamente para nós. 
+Não pode ser criado uma variavel sem atribuir um valor
+
+Um exemplo disso pode ser encontrado no arquivo "variaveis.py"
+
+### Constantes
+Não existe palavra reservada em python para informar ao interpretador que o valor é constante. Porém em Python há uma convenção que diz ao programador que tal variável é uma constante, e nesse caso é quando uma variável contém seu nome todo em letras maiúsculas. 
+
+### Boas praticas
+- O padrão de nomes de ser snake case (camelCase não é utilizado em python);
+- Escolher nomes sugestivos;
+- Nome de constantes todo em maiúsculo.
