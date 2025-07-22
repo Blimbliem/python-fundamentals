@@ -59,3 +59,9 @@ Não existe palavra reservada em python para informar ao interpretador que o val
 - O padrão de nomes de ser snake case (camelCase não é utilizado em python);
 - Escolher nomes sugestivos;
 - Nome de constantes todo em maiúsculo.
+
+
+## Aula 03 - Conversão de tipos
+- Em alguns momentos será necessário converter o tipo de uma variavel para manipular de forma forma diferente. 
+Ex:
+- Variaveis do tipo string, que armazenam números e precisamos fazer alguma operação matemática com esse valor.
