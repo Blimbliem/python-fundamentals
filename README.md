@@ -65,3 +65,10 @@ Não existe palavra reservada em python para informar ao interpretador que o val
 - Em alguns momentos será necessário converter o tipo de uma variavel para manipular de forma forma diferente. 
 Ex:
 - Variaveis do tipo string, que armazenam números e precisamos fazer alguma operação matemática com esse valor.
+
+## Aula 04 - Funções de entrada e saída
+### Função input
+- É utilizada quando queremos ler dados da entrada padrão. Ela recebe um argumento do tipo String, que é exibido para o usuário na saída padrão. Resumidamente, a função lê a entrada, converte para string e retorna o valor.
+
+### Função Print
+- É utilizada quando queremos exibir dados na saída padrão. Ela recebe um argumento obrigatório do tipo "varargs" de objetos e 4 argumentos opcionais (sep, end, file e flush). Todos os objetos são convertidos para string, separados por sep e terminados por end. A string final é exibida ao usuário.
