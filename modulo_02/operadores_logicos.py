@@ -21,3 +21,12 @@ print(not contatos_emergencia)
 
 conta_especial = True
 print((saldo >= saque and saque <= limite)or(conta_especial and saldo >= saque))
+
+
+conta_normal_com_saldo_suficiente = saldo >= saque and saque <= limite
+
+conta_especial_com_saldo_suficiente = conta_especial and saldo >= saque
+
+
+exp = conta_normal_com_saldo_suficiente or conta_especial_com_saldo_suficiente
+print(exp)
