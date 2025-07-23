@@ -10,3 +10,9 @@ A definição indica a seguinte ordem como a correta:
 - Expoêntes;
 - Multiplicações e divisões (da esquerda para a direita);
 - Soma e subtrações (da esquerda para a direita)
+
+### Operadores de Comparação
+- São operadores utilizados para comparar dois valores.
+
+### Operadores de atribuição
+- São operadores utilizados para definir o valor inicial ou sobrescrever o valor de uma variavel.
