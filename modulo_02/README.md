@@ -23,3 +23,8 @@ A definição indica a seguinte ordem como a correta:
 EX:
 op_comparacao + op_logico + op_comparacao...N...
 - Uma boa prática é não deixar as comparações lógicas ficarem muito grandes. Neste caso o programador deve pensar em uma forma de quebrar, atribuir a alguma variável e posteriormente avaliar lógicamente. 
+
+### Operadores de Identidade
+- São operadores utilizados para comparar se os dois objetos testados ocupam a mesma posição na memória.
+- Operador de identidade é o operador "is"
+- Ex: objeto_a is objeto_b
