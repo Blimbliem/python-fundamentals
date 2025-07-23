@@ -26,5 +26,10 @@ op_comparacao + op_logico + op_comparacao...N...
 
 ### Operadores de Identidade
 - São operadores utilizados para comparar se os dois objetos testados ocupam a mesma posição na memória.
-- Operador de identidade é o operador "is"
+- Operador de identidade é o operador "is", ou sua negação "not is"
 - Ex: objeto_a is objeto_b
+
+### Operadores de Associação
+- São operadores utilizados para verificar se um objeto está presente em uma sequência.
+- Utiliza-se o operador "in" ou sua negação "not in"
+
