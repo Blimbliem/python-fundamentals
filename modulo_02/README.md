@@ -16,3 +16,9 @@ A definição indica a seguinte ordem como a correta:
 
 ### Operadores de atribuição
 - São operadores utilizados para definir o valor inicial ou sobrescrever o valor de uma variavel.
+
+### Operadores Lógicos
+- São utilizados em conjunto com os operadores de comparação, para montar uma expressão lógica.
+- Quando um operador de comparação é utilizado, o resultado retornado é um booleano, dessa forma podemos combinar operadores de comparação com os operadores lógicos.
+EX:
+op_comparacao + op_logico + op_comparacao...N...
