@@ -1,3 +1,10 @@
+"""
+Exercício 01: Reajuste Salarial Simples
+Objetivo: Receber nome e salário e aplicar 15% de aumento.
+Autor: Gabriel
+
+"""
+
 def aumento_salario(salario_atual,nome):
     if salario_atual >= 5000:
                 aumento = 0.10
