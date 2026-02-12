@@ -71,3 +71,15 @@ numeros = [1,39,20, 2,9,66,35]
 potenciaDois = [i ** 2 for i in numeros]
 
 print(potenciaDois)
+
+
+#ENUMERATE
+
+carros = ["gol", "celta", "palio", "Corola"]
+
+for indice, carro in enumerate(carros):
+    print(f"{indice}: {carros}")
+
+ 
+
+
